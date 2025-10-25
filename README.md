@@ -37,13 +37,42 @@
 
 </div>
 
-Ingeniero en Informática en el Instituto Profesional Santo Tomás de Puerto Montt. **Responsable, ordenado, autodidacta y entusiasta por las nuevas tecnologías**, con fuerte motivación por aprender continuamente. Me destaco en el **trabajo colaborativo** y el **desarrollo de soluciones digitales** aplicadas a necesidades reales, combinando conocimientos técnicos con habilidades prácticas en proyectos informáticos.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📝 Sobre Mí
+
+Ingeniero en Informática en el **Instituto Profesional Santo Tomás** de Puerto Montt. 
+
+**Características profesionales:**
+- ✅ Responsable y ordenado
+- 🚀 Autodidacta y proactivo
+- 💡 Entusiasta por nuevas tecnologías
+- 📚 Motivación constante por aprender
+- 🤝 Trabajo colaborativo efectivo
+- 💻 Soluciones digitales aplicadas
+
+Combino **conocimientos técnicos** con **habilidades prácticas** en proyectos informáticos reales, creando soluciones que responden a necesidades concretas del mercado.
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎯 Objetivo Profesional
 
-Integrarme a un equipo de trabajo en el área de tecnologías de la información donde pueda aplicar y fortalecer mis conocimientos en informática. Mi objetivo es adquirir más experiencia, colaborar activamente en proyectos tecnológicos y desarrollarme tanto profesional como personalmente.
+Integrarme a un **equipo de trabajo** en el área de tecnologías de la información donde pueda:
 
+- 📈 **Aplicar** y fortalecer mis conocimientos
+- 🎓 **Adquirir** más experiencia profesional
+- 🤝 **Colaborar** en proyectos tecnológicos
+- 💼 **Desarrollarme** profesional y personalmente
+- 🚀 **Aportar** valor desde el primer día
 
+Busco un ambiente donde pueda crecer, aprender continuamente y contribuir al éxito de proyectos desafiantes.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -97,32 +126,41 @@ Integrarme a un equipo de trabajo en el área de tecnologías de la información
 <div align="center">
 
 <!-- PROYECTO 1: LÍNEAS ELÉCTRICAS -->
-<table>
+<table width="100%">
 <tr>
-<td width="30%">
+<td width="100%">
 
-### 📸 Galería
-<details>
-<summary>Ver Capturas</summary>
+<h3 align="center">⚡ Sistema de Inspección de Líneas Eléctricas</h3>
 
-![Screenshot 1](https://via.placeholder.com/250x150/E74C3C/FFFFFF?text=Dashboard)
-![Screenshot 2](https://via.placeholder.com/250x150/3498DB/FFFFFF?text=Mapa)
-![Screenshot 3](https://via.placeholder.com/250x150/2ECC71/FFFFFF?text=Reportes)
-
-*Reemplaza los links con tus capturas reales*
-
-</details>
-
-</td>
-<td width="70%">
-
-### ⚡ Sistema de Inspección de Líneas Eléctricas
-
+<div align="center">
 <img src="https://img.shields.io/badge/ADENTU-Clientes:_ENEL,_Cermac-E74C3C?style=flat-square" />
 <img src="https://img.shields.io/badge/Estado-🟢_En_Producción-2ECC71?style=flat-square" />
+</div>
 
-**Stack Tecnológico:**  
-`PHP` `MySQL` `Azure` `Leaflet.js` `JavaScript` `HTML/CSS`
+<br>
+
+**Stack Tecnológico:** `PHP` `MySQL` `Azure` `Leaflet.js` `JavaScript` `HTML/CSS`
+
+<details>
+<summary><b>📸 Ver Galería del Proyecto (3 imágenes)</b></summary>
+<br>
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/E74C3C/FFFFFF?text=Dashboard+Principal" width="100%"/>
+<br><i>Dashboard con KPIs</i>
+</td>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/C0392B/FFFFFF?text=Mapa+Interactivo" width="100%"/>
+<br><i>Mapa Georreferenciado</i>
+</td>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/A93226/FFFFFF?text=Reportes" width="100%"/>
+<br><i>Sistema de Reportes</i>
+</td>
+</tr>
+</table>
+</details>
 
 **Descripción:**  
 Sistema crítico de inspección de líneas de alta tensión mediante drones profesionales para gestión de infraestructura eléctrica.
@@ -148,32 +186,41 @@ Sistema crítico de inspección de líneas de alta tensión mediante drones prof
 ---
 
 <!-- PROYECTO 2: LÍNEAS FONDEO -->
-<table>
+<table width="100%">
 <tr>
-<td width="30%">
+<td width="100%">
 
-### 📸 Galería
-<details>
-<summary>Ver Capturas</summary>
+<h3 align="center">🌊 Sistema de Inspección ROV Submarina (Líneas Fondeo)</h3>
 
-![Screenshot 1](https://via.placeholder.com/250x150/006064/FFFFFF?text=Dashboard+ROV)
-![Screenshot 2](https://via.placeholder.com/250x150/00838F/FFFFFF?text=Imagenes)
-![Screenshot 3](https://via.placeholder.com/250x150/0097A7/FFFFFF?text=Mediciones)
-
-*Reemplaza los links con tus capturas reales*
-
-</details>
-
-</td>
-<td width="70%">
-
-### 🌊 Sistema de Inspección ROV Submarina (Líneas Fondeo)
-
+<div align="center">
 <img src="https://img.shields.io/badge/ADENTU-Multi--empresa_Acuícola-0077BE?style=flat-square" />
 <img src="https://img.shields.io/badge/Estado-🟢_En_Producción-2ECC71?style=flat-square" />
+</div>
 
-**Stack Tecnológico:**  
-`PHP` `MySQL` `AWS S3` `JavaScript` `HTML/CSS`
+<br>
+
+**Stack Tecnológico:** `PHP` `MySQL` `AWS S3` `JavaScript` `HTML/CSS`
+
+<details>
+<summary><b>📸 Ver Galería del Proyecto (3 imágenes)</b></summary>
+<br>
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/006064/FFFFFF?text=Dashboard+ROV" width="100%"/>
+<br><i>Panel de Control ROV</i>
+</td>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/00838F/FFFFFF?text=Galeria+Imagenes" width="100%"/>
+<br><i>Galería de Imágenes</i>
+</td>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/0097A7/FFFFFF?text=Mediciones" width="100%"/>
+<br><i>Sistema de Mediciones</i>
+</td>
+</tr>
+</table>
+</details>
 
 **Descripción:**  
 Plataforma SaaS para inspecciones submarinas con ROV en centros de cultivo, líneas de fondeo y estructuras marítimas.
@@ -199,32 +246,41 @@ Plataforma SaaS para inspecciones submarinas con ROV en centros de cultivo, lín
 ---
 
 <!-- PROYECTO 3: HOTEL INVENTORY -->
-<table>
+<table width="100%">
 <tr>
-<td width="30%">
+<td width="100%">
 
-### 📸 Galería
-<details>
-<summary>Ver Capturas</summary>
+<h3 align="center">🏨 Hotel Inventory Management System</h3>
 
-![Screenshot 1](https://via.placeholder.com/250x150/F39C12/FFFFFF?text=Dashboard)
-![Screenshot 2](https://via.placeholder.com/250x150/E67E22/FFFFFF?text=Habitaciones)
-![Screenshot 3](https://via.placeholder.com/250x150/D68910/FFFFFF?text=Inventario)
-
-*Reemplaza los links con tus capturas reales*
-
-</details>
-
-</td>
-<td width="70%">
-
-### 🏨 Hotel Inventory Management System
-
+<div align="center">
 <img src="https://img.shields.io/badge/Tipo-Sistema_de_Gestión-F39C12?style=flat-square" />
 <img src="https://img.shields.io/badge/Estado-🟢_Funcional-2ECC71?style=flat-square" />
+</div>
 
-**Stack Tecnológico:**  
-`Vue.js 3` `Firebase` `JavaScript` `CSS3`
+<br>
+
+**Stack Tecnológico:** `Vue.js 3` `Firebase` `JavaScript` `CSS3`
+
+<details>
+<summary><b>📸 Ver Galería del Proyecto (3 imágenes)</b></summary>
+<br>
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/F39C12/FFFFFF?text=Dashboard+Hotel" width="100%"/>
+<br><i>Dashboard Principal</i>
+</td>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/E67E22/FFFFFF?text=Habitaciones" width="100%"/>
+<br><i>Gestión de Habitaciones</i>
+</td>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/D68910/FFFFFF?text=Inventario" width="100%"/>
+<br><i>Control de Inventario</i>
+</td>
+</tr>
+</table>
+</details>
 
 **Descripción:**  
 Sistema moderno de gestión hotelera desarrollado con Vue.js 3 y Firebase para control integral de habitaciones e inventario.
@@ -250,32 +306,41 @@ Sistema moderno de gestión hotelera desarrollado con Vue.js 3 y Firebase para c
 ---
 
 <!-- PROYECTO 4: APECO -->
-<table>
+<table width="100%">
 <tr>
-<td width="30%">
+<td width="100%">
 
-### 📸 Galería
-<details>
-<summary>Ver Capturas</summary>
+<h3 align="center">📦 Sistema de Gestión de Inventario APECO</h3>
 
-![Screenshot 1](https://via.placeholder.com/250x150/9B59B6/FFFFFF?text=Dashboard)
-![Screenshot 2](https://via.placeholder.com/250x150/8E44AD/FFFFFF?text=Productos)
-![Screenshot 3](https://via.placeholder.com/250x150/7D3C98/FFFFFF?text=Reportes)
-
-*Reemplaza los links con tus capturas reales*
-
-</details>
-
-</td>
-<td width="70%">
-
-### 📦 Sistema de Gestión de Inventario APECO
-
+<div align="center">
 <img src="https://img.shields.io/badge/Tipo-Gestión_Empresarial-9B59B6?style=flat-square" />
 <img src="https://img.shields.io/badge/Estado-🟢_En_Producción-2ECC71?style=flat-square" />
+</div>
 
-**Stack Tecnológico:**  
-`PHP` `MySQL` `JavaScript` `HTML/CSS`
+<br>
+
+**Stack Tecnológico:** `PHP` `MySQL` `JavaScript` `HTML/CSS`
+
+<details>
+<summary><b>📸 Ver Galería del Proyecto (3 imágenes)</b></summary>
+<br>
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/9B59B6/FFFFFF?text=Dashboard+APECO" width="100%"/>
+<br><i>Dashboard Ejecutivo</i>
+</td>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/8E44AD/FFFFFF?text=Productos" width="100%"/>
+<br><i>Gestión de Productos</i>
+</td>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/7D3C98/FFFFFF?text=Reportes" width="100%"/>
+<br><i>Sistema de Reportes</i>
+</td>
+</tr>
+</table>
+</details>
 
 **Descripción:**  
 Sistema integral de gestión de inventarios con análisis en tiempo real para empresa de retail industrial.
@@ -287,10 +352,7 @@ Sistema integral de gestión de inventarios con análisis en tiempo real para em
 - 📈 Análisis predictivo de inventario
 - 🔔 Alertas automáticas de bajo stock
 
-**Resultados comprobados:**
-- ✅ 60% reducción en tiempo de gestión
-- ✅ 100% trazabilidad de productos
-- ✅ ROI positivo en 3 meses
+**Resultados comprobados:** ✅ 60% reducción en tiempo de gestión • ✅ 100% trazabilidad de productos • ✅ ROI positivo en 3 meses
 
 <div align="center">
 
@@ -306,32 +368,41 @@ Sistema integral de gestión de inventarios con análisis en tiempo real para em
 ---
 
 <!-- PROYECTO 5: ELECTROSUR -->
-<table>
+<table width="100%">
 <tr>
-<td width="30%">
+<td width="100%">
 
-### 📸 Galería
-<details>
-<summary>Ver Capturas</summary>
+<h3 align="center">⚡ Portal ElectroSur - Sistema de Atención al Cliente</h3>
 
-![Screenshot 1](https://via.placeholder.com/250x150/3498DB/FFFFFF?text=Portal)
-![Screenshot 2](https://via.placeholder.com/250x150/2980B9/FFFFFF?text=Tickets)
-![Screenshot 3](https://via.placeholder.com/250x150/2471A3/FFFFFF?text=Admin)
-
-*Reemplaza los links con tus capturas reales*
-
-</details>
-
-</td>
-<td width="70%">
-
-### ⚡ Portal ElectroSur - Sistema de Atención al Cliente
-
+<div align="center">
 <img src="https://img.shields.io/badge/Tipo-Portal_Web_Empresarial-3498DB?style=flat-square" />
 <img src="https://img.shields.io/badge/Estado-🟢_Prototipo_Funcional-9B59B6?style=flat-square" />
+</div>
 
-**Stack Tecnológico:**  
-`Python` `Django` `MySQL` `Tailwind CSS` `JavaScript`
+<br>
+
+**Stack Tecnológico:** `Python` `Django` `MySQL` `Tailwind CSS` `JavaScript`
+
+<details>
+<summary><b>📸 Ver Galería del Proyecto (3 imágenes)</b></summary>
+<br>
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/3498DB/FFFFFF?text=Portal+Principal" width="100%"/>
+<br><i>Portal de Cliente</i>
+</td>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/2980B9/FFFFFF?text=Sistema+Tickets" width="100%"/>
+<br><i>Gestión de Tickets</i>
+</td>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/2471A3/FFFFFF?text=Panel+Admin" width="100%"/>
+<br><i>Panel Administrativo</i>
+</td>
+</tr>
+</table>
+</details>
 
 **Descripción:**  
 Portal de atención al cliente para empresa de servicios eléctricos con sistema de tickets y seguimiento.
@@ -357,32 +428,41 @@ Portal de atención al cliente para empresa de servicios eléctricos con sistema
 ---
 
 <!-- PROYECTO 6: MEMORIA DIGITAL -->
-<table>
+<table width="100%">
 <tr>
-<td width="30%">
+<td width="100%">
 
-### 📸 Galería
-<details>
-<summary>Ver Capturas</summary>
+<h3 align="center">🕯️ Memoria Digital - Plataforma de Lápidas Digitales</h3>
 
-![Screenshot 1](https://via.placeholder.com/250x150/6C3483/FFFFFF?text=Memoriales)
-![Screenshot 2](https://via.placeholder.com/250x150/5B2C6F/FFFFFF?text=Galeria)
-![Screenshot 3](https://via.placeholder.com/250x150/4A235A/FFFFFF?text=E-commerce)
-
-*Reemplaza los links con tus capturas reales*
-
-</details>
-
-</td>
-<td width="70%">
-
-### 🕯️ Memoria Digital - Plataforma de Lápidas Digitales
-
+<div align="center">
 <img src="https://img.shields.io/badge/Tipo-E--commerce_+_SaaS-6C3483?style=flat-square" />
 <img src="https://img.shields.io/badge/Estado-🟢_Completo-2ECC71?style=flat-square" />
+</div>
 
-**Stack Tecnológico:**  
-`PHP` `MySQL` `JavaScript` `HTML/CSS`
+<br>
+
+**Stack Tecnológico:** `PHP` `MySQL` `JavaScript` `HTML/CSS`
+
+<details>
+<summary><b>📸 Ver Galería del Proyecto (3 imágenes)</b></summary>
+<br>
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/6C3483/FFFFFF?text=Memoriales" width="100%"/>
+<br><i>Memoriales Digitales</i>
+</td>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/5B2C6F/FFFFFF?text=Galeria+Multimedia" width="100%"/>
+<br><i>Galería Multimedia</i>
+</td>
+<td width="33%" align="center">
+<img src="https://via.placeholder.com/300x200/4A235A/FFFFFF?text=E-commerce" width="100%"/>
+<br><i>Tienda Online</i>
+</td>
+</tr>
+</table>
+</details>
 
 **Descripción:**  
 Plataforma innovadora que fusiona lo digital con lo físico: lápidas de aluminio con código QR que enlazan a memoriales digitales interactivos.
