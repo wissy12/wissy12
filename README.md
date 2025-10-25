@@ -147,7 +147,7 @@ Busco un ambiente donde pueda crecer, aprender continuamente y contribuir al éx
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/E74C3C/FFFFFF?text=Dashboard+Principal" width="100%"/>
+<img src="https://via.placeholder.com/300x200/E74C3C/FFFFFF?text=Dashboard+Principal](https://i.ibb.co/mCDqb6sF/Captura-de-pantalla-216.png)" width="100%"/>
 <br><i>Dashboard con KPIs</i>
 </td>
 <td width="33%" align="center">
