@@ -16,39 +16,21 @@
 
 ---
 
-## 👨‍💻 Sobre Mí
+## 👨‍💻 Perfil Profesional
 
-<table>
-<tr>
-<td width="50%">
+Ingeniero en Informática en el Instituto Profesional Santo Tomás de Puerto Montt. Responsable, ordenado, autodidacta y entusiasta por las nuevas tecnologías, con fuerte motivación por aprender continuamente. Me destaco en el trabajo colaborativo y el desarrollo de soluciones digitales aplicadas a necesidades reales, combinando conocimientos técnicos con habilidades prácticas en proyectos informáticos.
 
-```typescript
-const developer = {
-    nombre: "Tomás Andrade Pérez",
-    titulo: "Ingeniero en Informática",
-    ubicación: "Puerto Montt, Chile 🇨🇱",
-    
-    experienciaReal: {
-        proyectosCompletados: 6,
-        sistemasProducción: 4,
-        empresasClientes: 3
-    }
-};
-```
+### 🎯 Objetivo Profesional
 
-</td>
-<td width="50%">
+Integrarme a un equipo de trabajo en el área de tecnologías de la información donde pueda aplicar y fortalecer mis conocimientos en informática. Mi objetivo es adquirir más experiencia, colaborar activamente en proyectos tecnológicos y desarrollarme tanto profesional como personalmente.
 
-**Especialización:**
-- Full Stack Development
-- Cloud Architecture (Azure, AWS)
-- Database Design & Optimization
-- Geolocation Systems
-- IoT & Embedded Systems
+### 🎓 Educación
 
-</td>
-</tr>
-</table>
+**Ingeniería en Informática** | *En curso*  
+Instituto Profesional Santo Tomás - Puerto Montt
+
+**Técnico en Electricidad de Nivel Medio** | *Titulado*  
+Instituto del Mar Capitán Williams
 
 ---
 
@@ -267,33 +249,6 @@ Desarrollo de soluciones personalizadas para diversos sectores industriales.
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=react&hide_border=true&bg_color=1F2937&title_color=60A5FA&icon_color=3B82F6&text_color=D1D5DB&count_private=true&include_all_commits=true" width="100%"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=react&hide_border=true&background=1F2937&stroke=3B82F6&ring=60A5FA&fire=F59E0B&currStreakLabel=60A5FA&sideNums=D1D5DB&currStreakNum=FFFFFF&dates=9CA3AF" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=react&hide_border=true&bg_color=1F2937&title_color=60A5FA&text_color=D1D5DB&langs_count=8" width="50%"/>
-
-</div>
 
 ---
 
