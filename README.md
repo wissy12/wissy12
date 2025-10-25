@@ -23,11 +23,11 @@
 ```ascii
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║   👨‍💻 Tomás Andrade Pérez                                                    ║
-║   📍 Puerto Montt, Chile                                                     ║
-║   🎓 Ingeniero en Informática - Instituto Profesional Santo Tomás           ║
+║    Tomás Andrade Pérez                                                    ║
+║    Puerto Montt, Chile                                                     ║
+║    Ingeniero en Informática - Instituto Profesional Santo Tomás           ║
 ║                                                                              ║
-║   💼 Experiencia Profesional                                                 ║
+║    Experiencia Profesional                                                 ║
 ║   ├─ 6 Proyectos Completados                                                ║
 ║   ├─ 4 Sistemas en Producción                                               ║
 ║   └─ 3 Empresas Cliente                                                     ║
@@ -46,27 +46,27 @@
 Ingeniero en Informática en el **Instituto Profesional Santo Tomás** de Puerto Montt. 
 
 **Características profesionales:**
-- ✅ Responsable y ordenado
-- 🚀 Autodidacta y proactivo
-- 💡 Entusiasta por nuevas tecnologías
-- 📚 Motivación constante por aprender
-- 🤝 Trabajo colaborativo efectivo
-- 💻 Soluciones digitales aplicadas
+-  Responsable y ordenado
+-  Autodidacta y proactivo
+-  Entusiasta por nuevas tecnologías
+-  Motivación constante por aprender
+-  Trabajo colaborativo efectivo
+-  Soluciones digitales aplicadas
 
 Combino **conocimientos técnicos** con **habilidades prácticas** en proyectos informáticos reales, creando soluciones que responden a necesidades concretas del mercado.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Objetivo Profesional
+###  Objetivo Profesional
 
 Integrarme a un **equipo de trabajo** en el área de tecnologías de la información donde pueda:
 
-- 📈 **Aplicar** y fortalecer mis conocimientos
-- 🎓 **Adquirir** más experiencia profesional
-- 🤝 **Colaborar** en proyectos tecnológicos
-- 💼 **Desarrollarme** profesional y personalmente
-- 🚀 **Aportar** valor desde el primer día
+-  **Aplicar** y fortalecer mis conocimientos
+-  **Adquirir** más experiencia profesional
+-  **Colaborar** en proyectos tecnológicos
+-  **Desarrollarme** profesional y personalmente
+-  **Aportar** valor desde el primer día
 
 Busco un ambiente donde pueda crecer, aprender continuamente y contribuir al éxito de proyectos desafiantes.
 
@@ -76,7 +76,7 @@ Busco un ambiente donde pueda crecer, aprender continuamente y contribuir al éx
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 <table>
 <tr>
@@ -121,7 +121,7 @@ Busco un ambiente donde pueda crecer, aprender continuamente y contribuir al éx
 
 ---
 
-## 📁 Portafolio de Proyectos
+##  Portafolio de Proyectos
 
 <div align="center">
 
