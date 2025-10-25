@@ -489,46 +489,7 @@ Plataforma innovadora que fusiona lo digital con lo físico: lápidas de alumini
 
 ---
 
-## 💼 Experiencia Profesional
 
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Desarrollador Full Stack Senior
-
-**ADENTU Ingeniería** | *2023 - Presente*
-
-Desarrollo de sistemas críticos para gestión de inspecciones en los sectores de energía eléctrica y acuicultura marina.
-
-**Proyectos principales:**
-- Sistema de inspección de líneas eléctricas (ENEL, Cermac)
-- Sistema de inspección ROV submarina (multi-empresa)
-- Arquitectura cloud con Azure y AWS S3
-- Sistemas georreferenciados con Leaflet.js
-
-**Tecnologías:** PHP, MySQL, JavaScript, Azure, AWS, Leaflet.js, Git
-
-</td>
-<td width="50%">
-
-### 💻 Desarrollador de Software
-
-**Proyectos Freelance** | *2023 - Presente*
-
-Desarrollo de soluciones personalizadas para diversos sectores industriales.
-
-**Proyectos realizados:**
-- Sistema de gestión hotelera (Vue.js + Firebase)
-- Sistema de inventario empresarial (PHP + MySQL)
-- Portal de atención al cliente (Django)
-- Plataforma e-commerce memorial (PHP)
-
-**Tecnologías:** Python, Django, Vue.js, Firebase, PHP, MySQL, Tailwind
-
-</td>
-</tr>
-</table>
 
 ---
 
