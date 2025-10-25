@@ -1,632 +1,660 @@
 <div align="center">
 
-# TOMÁS ANDRADE PÉREZ
-### Ingeniero en Informática | Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=2D3748&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack+Profesional;Especialista+en+Soluciones+Empresariales;Arquitecto+de+Aplicaciones+Web;Innovación+%2B+Código+%2B+Resultados" alt="Typing SVG" />
+<!-- HEADER CON DISEÑO MINIMALISTA -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:34495E&height=200&section=header&text=TOMÁS%20ANDRADE&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=20"/>
 
 </div>
 
----
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C3E50&center=true&vCenter=true&multiline=false&width=700&height=100&lines=💻+Desarrollador+Full+Stack;🚀+Creador+de+Soluciones+Empresariales;⚡+Especialista+en+Arquitectura+Web;🌐+Innovación+%2B+Tecnología+%2B+Resultados" alt="Typing SVG" />
+</p>
 
-<table>
+<!-- WAVE SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<!-- LAYOUT PRINCIPAL CON DISEÑO GRID -->
+<table width="100%">
 <tr>
-<td width="50%">
-
-### 👤 Perfil Profesional
-
-Ingeniero en Informática con experiencia comprobada en desarrollo de **soluciones empresariales reales**. Especializado en arquitectura Full Stack y desarrollo de aplicaciones web escalables para sectores industriales críticos.
-
-**Características profesionales:**
-- ✓ Experiencia con empresas en producción
-- ✓ Enfoque en soluciones escalables y mantenibles
-- ✓ Metodologías ágiles y buenas prácticas
-- ✓ Compromiso con la calidad del código
-- ✓ Aprendizaje continuo de tecnologías emergentes
-
-</td>
-<td width="50%">
-
-### 📬 Información de Contacto
-
-```yaml
-ubicación:
-  ciudad: "Puerto Montt, Chile"
-  disponibilidad: "Presencial | Remoto | Híbrido"
-  
-contacto:
-  email: "toomas.andrade09@gmail.com"
-  teléfono: "+56 9 9992 5688"
-  rut: "21.121.656-5"
-  
-educación:
-  título: "Ingeniería en Informática"
-  institución: "Instituto Profesional Santo Tomás"
-  estado: "En curso - Último año"
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Portafolio de Proyectos
-
-### Proyectos en Producción Activa
-
-<table>
-<tr>
-<td width="100%">
-
-#### 🏢 **Sistema de Gestión de Inventario** — *APECO*
-
-<div align="right">
-<img src="https://img.shields.io/badge/Estado-Producción-2E7D32?style=flat-square&labelColor=1B5E20"/>
-<img src="https://img.shields.io/badge/Tipo-Sistema_Empresarial-1565C0?style=flat-square&labelColor=0D47A1"/>
-<img src="https://img.shields.io/badge/Sector-Retail_Industrial-455A64?style=flat-square&labelColor=263238"/>
-</div>
-
-**Contexto del proyecto:**  
-Desarrollo de plataforma web integral para la gestión y control de inventarios empresariales, incluyendo análisis de datos y generación de reportes automatizados. El sistema permite a APECO mantener control total sobre su stock, movimientos y análisis predictivo de necesidades.
-
-**Responsabilidades y logros:**
-- Diseño e implementación de arquitectura de base de datos relacional optimizada para alto volumen de transacciones
-- Desarrollo de interfaz de usuario responsiva con enfoque en UX y accesibilidad
-- Implementación de sistema CRUD completo con validaciones robustas y prevención de errores
-- Creación de dashboard ejecutivo con visualización de KPIs en tiempo real
-- Integración de módulo de reportería automática y análisis predictivo de stock
-- Implementación de sistema de notificaciones por bajo stock y alertas
-
-**Stack tecnológico:**  
-`HTML5` `CSS3` `JavaScript` `Python` `MySQL` `REST API`
-
-**Resultados medibles:**
-- Reducción del 60% en tiempo de gestión manual de inventario
-- 100% de trazabilidad en movimientos de inventario
-- Mejora significativa en toma de decisiones basada en datos
-- Eliminación de errores de registro manual
-- ROI positivo en los primeros 3 meses de implementación
-
----
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-#### ⚡ **Plataforma de Inspección de Líneas de Transmisión** — *ADENTU*
-
-<div align="right">
-<img src="https://img.shields.io/badge/Estado-Producción_Activa-2E7D32?style=flat-square&labelColor=1B5E20"/>
-<img src="https://img.shields.io/badge/Tipo-Infraestructura_Crítica-E65100?style=flat-square&labelColor=BF360C"/>
-<img src="https://img.shields.io/badge/Cloud-Microsoft_Azure-0078D4?style=flat-square&labelColor=005A9E"/>
-<img src="https://img.shields.io/badge/Sector-Energía_Eléctrica-FBC02D?style=flat-square&labelColor=F57F17"/>
-</div>
-
-**Contexto del proyecto:**  
-Sistema especializado para gestión de inspecciones y mantenimiento preventivo de redes de transmisión eléctrica de alta tensión. Permite a ADENTU priorizar intervenciones críticas, gestionar fallas georreferenciadas y mantener un registro histórico completo de todas las inspecciones realizadas en la red eléctrica.
-
-**Responsabilidades y logros:**
-- Arquitectura e implementación de sistema de gestión de fallas georreferenciadas con integración de mapas
-- Desarrollo de algoritmo de priorización automática de intervenciones por criticidad y riesgo
-- Implementación de sistema de gestión documental y fotográfica con metadata enriquecida
-- Integración con servicios cloud Azure para alta disponibilidad y escalabilidad
-- Optimización de consultas SQL y rendimiento de base de datos para grandes volúmenes
-- Desarrollo de módulo de reportería técnica automatizada con exportación PDF
-- Implementación de sistema de roles y permisos para diferentes niveles de usuario
-
-**Stack tecnológico:**  
-`HTML5` `CSS3` `JavaScript` `PHP 8` `MySQL 8.0` `Microsoft Azure` `Azure Blob Storage` `REST API` `JSON`
-
-**En producción:**  
-🌐 **[lineas.adentu.cloud](https://lineas.adentu.cloud/)**
-
-**Impacto:**
-- Sistema utilizado por múltiples empresas del sector eléctrico en Chile
-- Mejora del 45% en tiempos de respuesta ante fallas críticas
-- Reducción de riesgos operacionales y mayor seguridad para técnicos
-- Centralización de información histórica para análisis de patrones de fallas
-- Cumplimiento normativo mejorado con trazabilidad completa
-
----
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-#### 🌊 **Sistema de Inspección Submarina con ROV** — *ADENTU Fondeo*
-
-<div align="right">
-<img src="https://img.shields.io/badge/Estado-Multi_Empresa-2E7D32?style=flat-square&labelColor=1B5E20"/>
-<img src="https://img.shields.io/badge/Tipo-Inspección_Submarina-006064?style=flat-square&labelColor=004D40"/>
-<img src="https://img.shields.io/badge/Cloud-Microsoft_Azure-0078D4?style=flat-square&labelColor=005A9E"/>
-<img src="https://img.shields.io/badge/Sector-Acuicultura_Marítima-0277BD?style=flat-square&labelColor=01579B"/>
-</div>
-
-**Contexto del proyecto:**  
-Plataforma especializada para gestión de inspecciones submarinas mediante vehículos operados remotamente (ROV) en instalaciones marítimas, centros de cultivo, líneas de fondeo y estructuras submarinas. Sistema crítico para empresas de acuicultura y marítimas que requieren inspecciones regulares bajo el agua.
-
-**Responsabilidades y logros:**
-- Diseño de arquitectura multi-tenant (SaaS) para adaptación a diferentes empresas y protocolos
-- Desarrollo de sistema de gestión de material multimedia pesado (video HD/4K e imágenes de alta resolución)
-- Implementación de protocolos de inspección estandarizados según normativas marítimas
-- Creación de sistema de reportería técnica automatizada con plantillas personalizables
-- Integración con Azure Blob Storage para almacenamiento eficiente de archivos multimedia
-- Desarrollo de módulo de seguimiento histórico de estructuras inspeccionadas
-- Implementación de sistema de alertas por hallazgos críticos
-- Panel de administración multi-empresa con aislamiento de datos
-
-**Stack tecnológico:**  
-`HTML5` `CSS3` `JavaScript` `PHP 8` `MySQL 8.0` `Microsoft Azure` `Azure Blob Storage` `FFmpeg` `REST API` `JSON Web Tokens`
-
-**Alcance:**
-- Implementado activamente en **múltiples empresas** del sector acuicultura en el sur de Chile
-- Sistema adaptable a diferentes tipos de inspecciones submarinas (líneas, jaulas, muertos, cascos)
-- Plataforma escalable con capacidad de expansión nacional e internacional
-- Procesamiento de terabytes de video e imágenes submarinas
-- Reducción del 70% en tiempo de generación de informes técnicos
-
----
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-#### 🔌 **Simulador de Redes y Configuración de Hardware** — *Proyecto Académico Avanzado*
-
-<div align="right">
-<img src="https://img.shields.io/badge/Estado-Certificado-2E7D32?style=flat-square&labelColor=1B5E20"/>
-<img src="https://img.shields.io/badge/Tipo-Networking_Hardware-546E7A?style=flat-square&labelColor=37474F"/>
-<img src="https://img.shields.io/badge/Plataforma-Cisco_Packet_Tracer-1BA0D7?style=flat-square&labelColor=0D7EA3"/>
-</div>
-
-**Contexto del proyecto:**  
-Proyecto de certificación profesional en redes y hardware, enfocado en diseño, simulación y troubleshooting de topologías de red empresariales complejas. Incluye configuración avanzada de routers, switches y protocolos de enrutamiento.
-
-**Responsabilidades y logros:**
-- Diseño y simulación de topologías de red LAN/WAN complejas
-- Configuración avanzada de routers Cisco (IOS) con protocolos RIP, OSPF y EIGRP
-- Implementación de VLANs, trunking y segmentación de redes
-- Configuración de switches con STP, port security y QoS
-- Diagnóstico y resolución de fallos en redes empresariales
-- Implementación de esquemas de direccionamiento IP y subnetting
-- Configuración de ACLs para seguridad de red
-- Diseño de redundancia y alta disponibilidad
-
-**Stack tecnológico:**  
-`Cisco Packet Tracer` `Cisco IOS` `Protocolos TCP/IP` `VLAN` `Routing Protocols` `Network Security`
-
-**Certificación:**
-- ✅ **Certificado oficial Cisco Packet Tracer**
-- Competencias en diseño y administración de redes empresariales
-- Conocimiento de mejores prácticas en seguridad de redes
-
-**Aplicación práctica:**
-- Conocimientos aplicados en proyectos reales de infraestructura
-- Base sólida para implementación de soluciones cloud networking
-- Comprensión profunda de arquitecturas de red escalables
-
----
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-#### 🤖 **Sistema de Control Automatizado IoT** — *Proyecto Arduino*
-
-<div align="right">
-<img src="https://img.shields.io/badge/Estado-Prototipo_Funcional-F57C00?style=flat-square&labelColor=E65100"/>
-<img src="https://img.shields.io/badge/Tipo-IoT_Automatización-00695C?style=flat-square&labelColor=004D40"/>
-<img src="https://img.shields.io/badge/Hardware-Arduino-00979D?style=flat-square&labelColor=006064"/>
-</div>
-
-**Contexto del proyecto:**  
-Desarrollo de sistema de automatización basado en Arduino para control de procesos mediante sensores y actuadores. Proyecto que integra hardware, programación y electrónica para crear soluciones de automatización práctica.
-
-**Responsabilidades y logros:**
-- Programación de microcontroladores Arduino en C++ para control en tiempo real
-- Integración de múltiples sensores (temperatura, humedad, movimiento, luz)
-- Implementación de actuadores eléctricos (motores, relés, servos)
-- Desarrollo de lógica de control condicional y automatización
-- Diseño de circuitos electrónicos y conexiones seguras
-- Implementación de comunicación serial para monitoreo
-- Creación de prototipos funcionales para automatización de procesos
-- Integración de módulos WiFi/Bluetooth para IoT
-
-**Stack tecnológico:**  
-`Arduino C++` `Arduino IDE` `Sensores IoT` `Actuadores` `Protocolos de Comunicación` `Circuitos Electrónicos`
-
-**Habilidades desarrolladas:**
-- Programación de sistemas embebidos
-- Integración hardware-software
-- Diseño de sistemas de automatización
-- Troubleshooting de sistemas electrónicos
-- Base para desarrollo de proyectos IoT empresariales
-
-**Aplicación:**
-- Fundamento para sistemas de automatización industrial
-- Conocimiento aplicable a Industry 4.0
-- Comprensión de arquitecturas IoT
-
----
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-#### 🎨 **Desarrollo de Interfaces y Prototipos UI/UX** — *Proyectos Universitarios*
-
-<div align="right">
-<img src="https://img.shields.io/badge/Estado-Portfolio_Completo-6A1B9A?style=flat-square&labelColor=4A148C"/>
-<img src="https://img.shields.io/badge/Tipo-UI_UX_Design-C2185B?style=flat-square&labelColor=880E4F"/>
-<img src="https://img.shields.io/badge/Tools-Figma_Frontend-F24E1E?style=flat-square&labelColor=C62828"/>
-</div>
-
-**Contexto del proyecto:**  
-Serie de proyectos académicos y personales enfocados en diseño de experiencia de usuario, prototipado de interfaces web y desarrollo frontend moderno. Incluye desde wireframes hasta implementaciones funcionales completas.
-
-**Responsabilidades y logros:**
-- Diseño de wireframes y prototipos de alta fidelidad en Figma
-- Desarrollo de interfaces responsivas adaptables a múltiples dispositivos
-- Implementación de componentes reutilizables con Vue.js y React
-- Aplicación de principios de diseño UX y accesibilidad web (WCAG)
-- Creación de sistemas de diseño y style guides
-- Desarrollo de animaciones y microinteracciones con CSS/JavaScript
-- Implementación de arquitectura frontend escalable y mantenible
-- Testing de usabilidad y optimización de experiencia de usuario
-
-**Stack tecnológico:**  
-`Figma` `Adobe XD` `HTML5` `CSS3` `SASS` `JavaScript` `Vue.js` `React` `Responsive Design` `Bootstrap` `Tailwind CSS`
-
-**Proyectos destacados:**
-- Dashboard administrativo con data visualization
-- Landing pages con alto rendimiento y conversión
-- Aplicaciones web SPA (Single Page Applications)
-- Sistemas de gestión con interfaces intuitivas
-- Prototipos interactivos para validación de conceptos
-
-**Impacto en proyectos reales:**
-- Interfaces diseñadas aplicadas en proyectos APECO y ADENTU
-- Mejora en satisfacción de usuarios finales
-- Reducción de curva de aprendizaje en sistemas complejos
-- Incremento en adopción de plataformas
-
----
-
-</td>
-</tr>
-</table>
-
-## 🛠️ Stack Tecnológico
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Lenguajes de Programación
-
-```python
-languages = {
-    'Frontend': ['HTML5', 'CSS3', 'JavaScript', 'TypeScript'],
-    'Backend': ['Python', 'PHP', 'Java', 'C++', 'C#'],
-    'Database': ['MySQL', 'SQL'],
-    'Hardware': ['Arduino', 'C/C++ Embedded'],
-    'Markup': ['JSON', 'XML', 'YAML']
-}
-```
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-**Backend:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
-**Bases de Datos:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### Frameworks y Herramientas
-
-```javascript
-const stack = {
-  frameworks: ['Vue.js', 'React', 'Laravel', '.NET'],
-  cloud: ['Microsoft Azure', 'Azure Blob Storage'],
-  versionControl: ['Git', 'GitHub'],
-  design: ['Figma', 'Adobe XD', 'AutoCAD'],
-  projectManagement: ['Jira', 'Trello'],
-  ide: ['VS Code', 'PyCharm', 'Android Studio'],
-  other: ['Excel Avanzado', 'Pack Office']
+<td width="35%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+
+### 🎯 SOBRE MÍ
+
+```typescript
+const developer = {
+    nombre: "Tomás Andrade Pérez",
+    rol: "Ingeniero en Informática",
+    ubicación: "Puerto Montt 🇨🇱",
+    
+    especialización: [
+        "Full Stack Development",
+        "Cloud Architecture",
+        "Database Design",
+        "UI/UX Engineering"
+    ],
+    
+    mentalidad: {
+        aprendizaje: "continuo",
+        enfoque: "soluciones reales",
+        calidad: "siempre primero"
+    }
 };
 ```
 
-**Frameworks:**  
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+<br>
 
-**Cloud & DevOps:**  
+### 📍 CONTACTO
+
+```yaml
+📧 toomas.andrade09@gmail.com
+📱 +56 9 9992 5688
+🆔 21.121.656-5
+📍 Puerto Montt, Chile
+🌐 Disponibilidad: Inmediata
+💼 Modalidad: Todas
+```
+
+<br>
+
+### 🎓 FORMACIÓN
+
+**Ingeniería en Informática**  
+📚 Instituto Profesional Santo Tomás  
+⏳ En curso - Último año
+
+**Técnico en Electricidad**  
+🔧 Instituto del Mar C. Williams  
+✅ Titulado
+
+</td>
+<td width="65%" valign="top">
+
+<!-- SECCIÓN DE ESTADÍSTICAS CON DISEÑO MODERNO -->
+### 📊 MÉTRICAS DE DESARROLLO
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=2C3E50&text_color=34495E&icon_color=3498DB&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=default&hide_border=true&background=ffffff&stroke=2C3E50&ring=3498DB&fire=E74C3C&currStreakLabel=2C3E50" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&custom_title=Actividad%20de%20Contribución&bg_color=ffffff&color=2C3E50&line=3498DB&point=E74C3C&area=true&hide_border=true&area_color=BDC3C7" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=12&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=2C3E50&text_color=34495E" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<!-- SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<!-- TECH STACK CON DISEÑO ICONOGRÁFICO -->
+<h2 align="center">⚡ ARSENAL TECNOLÓGICO</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,cpp,cs,mysql,azure,git,github,figma,vscode,arduino&theme=light&perline=15" />
+</p>
+
+<details>
+<summary><b>🔍 Ver Stack Completo Detallado</b></summary>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="25%">
+
+**Frontend**
+```
+→ HTML5
+→ CSS3
+→ JavaScript
+→ Vue.js
+→ React
+→ SASS
+```
+
+</td>
+<td width="25%">
+
+**Backend**
+```
+→ Python
+→ PHP 8
+→ Java
+→ C++
+→ C#
+→ .NET
+```
+
+</td>
+<td width="25%">
+
+**Database**
+```
+→ MySQL 8
+→ SQL Server
+→ Database Design
+→ Query Optimization
+```
+
+</td>
+<td width="25%">
+
+**DevOps & Cloud**
+```
+→ Azure
+→ Git/GitHub
+→ REST APIs
+→ Docker (básico)
+```
+
+</td>
+</tr>
+<tr>
+<td width="25%">
+
+**Frameworks**
+```
+→ Laravel
+→ Bootstrap
+→ Tailwind CSS
+```
+
+</td>
+<td width="25%">
+
+**Tools**
+```
+→ VS Code
+→ PyCharm
+→ Android Studio
+→ Jira
+```
+
+</td>
+<td width="25%">
+
+**Design**
+```
+→ Figma
+→ Adobe XD
+→ AutoCAD
+→ UI/UX
+```
+
+</td>
+<td width="25%">
+
+**Otros**
+```
+→ Arduino
+→ Cisco Packet
+→ Excel Avanzado
+→ Inglés Intermedio
+```
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<!-- SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<!-- PORTAFOLIO DE PROYECTOS CON DISEÑO CARD -->
+<h2 align="center">🚀 PORTAFOLIO DE PROYECTOS</h2>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<!-- PROYECTO 1 -->
+<div align="center">
+  
+### 🏢 Sistema de Gestión de Inventario
+**APECO** • `En Producción`
+
+</div>
+
+```yaml
+Tipo: Sistema Empresarial
+Sector: Retail Industrial
+Estado: ✅ Activo en Producción
+```
+
+**Stack:**  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Descripción:**  
+Plataforma web integral para gestión de inventarios con análisis en tiempo real y dashboard ejecutivo.
+
+**Highlights:**
+- 📊 Dashboard con KPIs en tiempo real
+- 🔄 Sistema CRUD completo optimizado
+- 📈 Análisis predictivo de stock
+- 🎨 Interfaz responsiva moderna
+- 🔐 Autenticación segura
+
+**Impacto:**
+```
+→ 60% reducción en tiempo de gestión
+→ 100% trazabilidad de productos
+→ ROI positivo en 3 meses
+```
+
+</td>
+<td width="50%">
+
+<!-- PROYECTO 2 -->
+<div align="center">
+  
+### ⚡ App Líneas de Transmisión
+**ADENTU** • `Multi-Empresa`
+
+</div>
+
+```yaml
+Tipo: Infraestructura Crítica
+Sector: Energía Eléctrica
+Estado: ✅ Producción Activa
+```
+
+**Stack:**  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**Diseño & Herramientas:**  
+**Descripción:**  
+Sistema para inspecciones y mantenimiento de redes eléctricas de alta tensión con priorización inteligente.
+
+**Highlights:**
+- 🗺️ Mapeo georreferenciado de líneas
+- 🚨 Alertas prioritarias automáticas
+- 📸 Gestión de evidencia fotográfica
+- 📊 Reportes técnicos automatizados
+- ⚡ Actualización en tiempo real
+
+**En vivo:**  
+🌐 [lineas.adentu.cloud](https://lineas.adentu.cloud/)
+
+**Impacto:**
+```
+→ Múltiples empresas usando el sistema
+→ 45% mejora en tiempos de respuesta
+→ Mayor seguridad operacional
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<!-- PROYECTO 3 -->
+<div align="center">
+  
+### 🌊 Sistema de Inspección ROV
+**ADENTU Fondeo** • `SaaS Multi-Tenant`
+
+</div>
+
+```yaml
+Tipo: Inspección Submarina
+Sector: Acuicultura Marítima
+Estado: ✅ Multi-Empresa Activo
+```
+
+**Stack:**  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+**Descripción:**  
+Plataforma especializada para inspecciones submarinas con ROV en centros de cultivo y estructuras marítimas.
+
+**Highlights:**
+- 🤿 Integración con equipos ROV
+- 🎥 Gestión de video HD/4K submarina
+- 📋 Protocolos estandarizados
+- 🏭 Sistema multi-empresa adaptable
+- 📊 Informes técnicos automatizados
+
+**Impacto:**
+```
+→ Varias empresas del sur de Chile
+→ 70% reducción en tiempo de informes
+→ Estándar en inspecciones submarinas
+```
+
+</td>
+<td width="50%">
+
+<!-- PROYECTO 4 -->
+<div align="center">
+  
+### 🔌 Simulador de Redes
+**Cisco Packet Tracer** • `Certificado`
+
+</div>
+
+```yaml
+Tipo: Networking & Hardware
+Sector: Infraestructura de Redes
+Estado: ✅ Certificado Oficial
+```
+
+**Stack:**  
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/-TCP/IP-5C2D91?style=flat-square&logo=protocols&logoColor=white)
+![Security](https://img.shields.io/badge/-Security-E74C3C?style=flat-square&logo=security&logoColor=white)
+
+**Descripción:**  
+Diseño y configuración de topologías de red empresariales complejas con protocolos avanzados.
+
+**Highlights:**
+- 🌐 Configuración de routers Cisco IOS
+- 🔄 Protocolos RIP, OSPF, EIGRP
+- 🏢 VLANs y segmentación de redes
+- 🔐 ACLs y seguridad de red
+- ⚡ Redundancia y alta disponibilidad
+
+**Certificación:**
+```
+✅ Cisco Packet Tracer Official
+✅ Network Design & Troubleshooting
+✅ Enterprise Infrastructure
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<!-- PROYECTO 5 -->
+<div align="center">
+  
+### 🤖 Sistema IoT con Arduino
+**Control Automatizado** • `Prototipo Funcional`
+
+</div>
+
+```yaml
+Tipo: IoT & Automatización
+Sector: Industry 4.0
+Estado: ✅ Funcional
+```
+
+**Stack:**  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![IoT](https://img.shields.io/badge/-IoT-34A853?style=flat-square&logo=iot&logoColor=white)
+
+**Descripción:**  
+Sistema de automatización con sensores y actuadores para control de procesos en tiempo real.
+
+**Highlights:**
+- 🎛️ Programación de microcontroladores
+- 📡 Sensores múltiples integrados
+- ⚙️ Actuadores eléctricos
+- 🔄 Lógica de control automatizada
+- 📊 Comunicación serial/WiFi
+
+**Tecnologías:**
+```
+→ Arduino C++
+→ Sensores IoT (temp, humedad, mov)
+→ Actuadores (motores, relés)
+→ Protocolos de comunicación
+→ Circuitos electrónicos
+```
+
+</td>
+<td width="50%">
+
+<!-- PROYECTO 6 -->
+<div align="center">
+  
+### 🎨 Desarrollo UI/UX
+**Interfaces & Prototipos** • `Portfolio Completo`
+
+</div>
+
+```yaml
+Tipo: UI/UX Design & Frontend
+Sector: Diseño de Experiencias
+Estado: ✅ Portfolio Activo
+```
+
+**Stack:**  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Descripción:**  
+Diseño de experiencias de usuario, prototipos interactivos y desarrollo frontend moderno.
+
+**Highlights:**
+- 📐 Wireframes y prototipos Figma
+- 📱 Interfaces responsivas adaptables
+- 🧩 Componentes reutilizables
+- ♿ Accesibilidad web (WCAG)
+- 🎭 Animaciones y microinteracciones
+
+**Proyectos:**
+```
+→ Dashboards con data viz
+→ Landing pages high-conversion
+→ Aplicaciones SPA
+→ Sistemas de diseño
+→ Prototipos interactivos
+```
 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2D3748&text_color=4A5568&icon_color=4299E1" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2D3748&text_color=4A5568" alt="Top Languages" />
-
-<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=default&hide_border=true&background=ffffff&stroke=CBD5E0&ring=4299E1&fire=F56565&currStreakLabel=2D3748" alt="GitHub Streak" />
-
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&custom_title=Gráfico%20de%20Contribuciones&bg_color=ffffff&color=2D3748&line=4299E1&point=F56565&area=true&hide_border=true&area_color=E6FFFA" alt="Contribution Graph" />
-
 </div>
 
----
+<!-- SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-## 🎓 Formación y Certificaciones
+<!-- CERTIFICACIONES CON DISEÑO DE BADGES -->
+<h2 align="center">🏆 CERTIFICACIONES & LOGROS</h2>
 
-<table>
+<p align="center">
+  
+| 🎯 Certificación | 🏢 Institución | 📊 Estado | 📅 Año |
+|:---:|:---:|:---:|:---:|
+| **Cisco Packet Tracer** | Cisco Networking Academy | ✅ **CERTIFICADO** | 2024 |
+| **Prevención Riesgos Eléctricos** | ACHS | ✅ **CERTIFICADO** | 2023 |
+| **Técnico en Electricidad** | Instituto del Mar | ✅ **TITULADO** | 2022 |
+| **Excel Avanzado** | Formación Continua | ✅ **COMPETENTE** | 2023 |
+| **Inglés Técnico** | Autoaprendizaje | 🔸 **INTERMEDIO** | Continuo |
+
+</p>
+
+<!-- SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<!-- HABILIDADES CON DISEÑO VISUAL -->
+<h2 align="center">💡 ÁREAS DE EXPERTISE</h2>
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="64"/>
 
-### 📚 Educación Formal
+**Full Stack Development**
 
-**Ingeniería en Informática** *(En curso - Último año)*  
-Instituto Profesional Santo Tomás, Puerto Montt  
-*Enfoque en desarrollo de software, arquitectura de sistemas y gestión de proyectos tecnológicos*
-
-**Técnico en Electricidad de Nivel Medio**  
-Instituto del Mar Capitán Williams  
-*Formación técnica en sistemas eléctricos, automatización y prevención de riesgos*
-
-### 🌐 Idiomas
-
-**Español:** Nativo  
-**Inglés:** Intermedio (lectura técnica y documentación)
+Arquitectura de aplicaciones web escalables con backend robusto y frontend moderno
 
 </td>
-<td width="50%">
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="64"/>
 
-### 🏆 Certificaciones Profesionales
+**Cloud Architecture**
 
-| Certificación | Institución | Estado |
-|--------------|-------------|---------|
-| **Cisco Packet Tracer** | Cisco Networking Academy | ✅ Certificado |
-| **Prevención de Riesgos Eléctricos** | ACHS | ✅ Certificado |
-| **Excel Avanzado** | Formación continua | ✅ Competente |
-| **Inglés Técnico** | Autoaprendizaje | 🔸 Intermedio |
+Implementación y gestión de soluciones en Azure con alta disponibilidad
 
-### 📋 Licencias y Permisos
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/database.png" width="64"/>
 
-- **Seguro Escolar:** Vigente
-- **Disponibilidad:** Inmediata
-- **Movilidad:** Disponible para traslado
+**Database Engineering**
+
+Diseño y optimización de bases de datos relacionales para alto rendimiento
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="64"/>
+
+**IoT & Embedded**
+
+Sistemas embebidos, automatización industrial y soluciones Industry 4.0
+
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/design.png" width="64"/>
+
+**UI/UX Design**
+
+Diseño centrado en el usuario con enfoque en accesibilidad y conversión
+
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="64"/>
+
+**Security & Best Practices**
+
+Desarrollo seguro y implementación de mejores prácticas industriales
 
 </td>
 </tr>
 </table>
 
----
+<!-- SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-## 🎯 Áreas de Especialización
+<!-- EXPERIENCIA CON TIMELINE -->
+<h2 align="center">💼 EXPERIENCIA PROFESIONAL</h2>
 
-<table>
+```mermaid
+graph LR
+    A[2023] --> B[Desarrollador Full Stack - ADENTU]
+    B --> C[Sistema Líneas Transmisión]
+    B --> D[Sistema Inspección ROV]
+    A --> E[Desarrollador Web - APECO]
+    E --> F[Sistema Gestión Inventario]
+    A --> G[2024 - Presente]
+    G --> H[Mantenimiento & Nuevas Features]
+```
+
+<table width="100%">
 <tr>
-<td width="33%" align="center">
+<td width="50%">
 
-**🏗️ Arquitectura Web**
+### 🚀 Desarrollador Full Stack
+**ADENTU** • *Freelance* • `2023 - Presente`
 
-Diseño de aplicaciones escalables y mantenibles con patrones MVC, REST API y microservicios
-
-</td>
-<td width="33%" align="center">
-
-**☁️ Cloud Computing**
-
-Implementación y gestión de soluciones en Microsoft Azure con enfoque en alta disponibilidad
+- ✅ Desarrollo de 2 plataformas empresariales
+- ⚡ Implementación de nuevas funcionalidades
+- 🔧 Optimización de rendimiento
+- 📊 Gestión de infraestructura Azure
+- 🛠️ Soporte técnico y mantenimiento
 
 </td>
-<td width="33%" align="center">
+<td width="50%">
 
-**📊 Análisis de Datos**
+### 💻 Desarrollador Web
+**APECO** • *Proyecto* • `2023`
 
-Visualización y procesamiento de información empresarial para toma de decisiones
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-**🔧 IoT & Hardware**
-
-Integración de sistemas embebidos, automatización industrial y soluciones Industry 4.0
-
-</td>
-<td width="33%" align="center">
-
-**🎨 UI/UX Design**
-
-Interfaces intuitivas con enfoque en experiencia de usuario y accesibilidad web
-
-</td>
-<td width="33%" align="center">
-
-**🔐 Seguridad**
-
-Implementación de mejores prácticas en desarrollo seguro y protección de datos
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-**🗄️ Gestión de Bases de Datos**
-
-Diseño, optimización y administración de bases de datos relacionales MySQL
-
-</td>
-<td width="33%" align="center">
-
-**🌐 Networking**
-
-Configuración y troubleshooting de redes empresariales y protocolos de comunicación
-
-</td>
-<td width="33%" align="center">
-
-**⚡ Metodologías Ágiles**
-
-Experiencia con Scrum, Kanban y gestión de proyectos con Jira
+- ✅ Sistema completo de gestión de inventario
+- 🗄️ Diseño de base de datos
+- 🎨 Implementación de UI/UX
+- 📚 Documentación técnica
+- 👥 Capacitación de usuarios
 
 </td>
 </tr>
 </table>
 
----
+<!-- SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-## 💡 Habilidades Técnicas Destacadas
+<!-- CONTACTO CON DISEÑO ATRACTIVO -->
+<h2 align="center">📫 CONECTA CONMIGO</h2>
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
+  <a href="TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Tomás_Andrade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:toomas.andrade09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-toomas.andrade09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-TU__USUARIO-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://wa.me/56999925688">
+    <img src="https://img.shields.io/badge/WhatsApp-+56_9_9992_5688-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
-### Backend & Database
-- Desarrollo de APIs RESTful
-- Arquitectura MVC y patrones de diseño
-- Optimización de consultas SQL
-- Gestión de sesiones y autenticación
-- Procesamiento de datos y algoritmos
-- Integración con servicios externos
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Ubicación-Puerto_Montt,_Chile-E74C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/💼_Disponibilidad-Inmediata-2ECC71?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌐_Modalidad-Presencial_|_Remoto_|_Híbrido-3498DB?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎯_Buscando-Práctica_Profesional-9B59B6?style=flat-square" />
+</p>
 
-### Cloud & DevOps
-- Despliegue en Microsoft Azure
-- Gestión de Azure Blob Storage
-- Control de versiones con Git/GitHub
-- CI/CD pipelines básicos
-- Configuración de servidores
-- Monitoreo y logging
+<!-- SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-</td>
-<td width="50%">
-
-### Frontend & UI
-- Responsive design mobile-first
-- Single Page Applications (SPA)
-- Componentes reutilizables
-- Optimización de rendimiento
-- Accesibilidad web (WCAG)
-- Cross-browser compatibility
-
-### Gestión de Proyectos
-- Levantamiento de requerimientos
-- Documentación técnica
-- Estimación de tiempos
-- Trabajo en equipo colaborativo
-- Comunicación con stakeholders
-- Gestión de prioridades
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Experiencia Laboral
-
-### Desarrollador Full Stack | **ADENTU** *(Freelance)*
-*2023 - Presente*
-
-- Desarrollo y mantenimiento de dos plataformas empresariales en producción
-- Implementación de nuevas funcionalidades según requerimientos del cliente
-- Optimización de rendimiento y escalabilidad de aplicaciones
-- Soporte técnico y resolución de incidencias
-- Gestión de infraestructura cloud en Azure
-
-### Desarrollador Web | **APECO** *(Proyecto)*
-*2023*
-
-- Desarrollo completo de sistema de gestión de inventario
-- Diseño de base de datos y arquitectura de sistema
-- Implementación de interfaz de usuario y lógica de negocio
-- Capacitación de usuarios finales
-- Documentación técnica y de usuario
-
----
-
-## 📫 Contacto Profesional
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-toomas.andrade09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toomas.andrade09@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+56_9_9992_5688-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/56999925688)
-
-**Teléfono:** +56 9 9992 5688  
-**RUT:** 21.121.656-5  
-**Ubicación:** Puerto Montt, Región de Los Lagos, Chile
-
-</div>
-
----
-
-## 📄 Descarga Mi CV
-
-<div align="center">
-
-[![Descargar CV](https://img.shields.io/badge/📥_Descargar_CV-PDF-E53935?style=for-the-badge)](TU_LINK_CV)
-[![Ver Portfolio](https://img.shields.io/badge/🌐_Ver_Portfolio-Online-1E88E5?style=for-the-badge)](TU_PORTFOLIO)
-
-</div>
-
----
-
+<!-- CALL TO ACTION -->
 <div align="center">
 
 ### 💡 "Transformando ideas en soluciones tecnológicas tangibles"
 
-#### 🎯 Disponible para:
-**Práctica Profesional** | **Proyectos Freelance** | **Oportunidades Laborales**
+#### 🎯 Abierto a Oportunidades
 
-**Modalidad:** Presencial, Remota o Híbrida | **Disponibilidad:** Inmediata
+**Práctica Profesional** • **Proyectos Freelance** • **Colaboraciones** • **Oportunidades Laborales**
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=4299E1&style=flat-square&label=Visitas+al+perfil)
-![Last Commit](https://img.shields.io/github/last-commit/TU_USUARIO/TU_USUARIO?style=flat-square&color=4299E1)
-![GitHub followers](https://img.shields.io/github/followers/TU_USUARIO?style=flat-square&color=4299E1)
+<br>
+
+<!-- CONTADOR DE VISITAS Y STATS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=3498DB&style=for-the-badge&label=VISITAS" />
+  <img src="https://img.shields.io/github/followers/TU_USUARIO?style=for-the-badge&color=2ECC71&labelColor=27AE60&logo=github" />
+  <img src="https://img.shields.io/github/stars/TU_USUARIO?style=for-the-badge&color=F39C12&labelColor=E67E22&logo=github" />
+</p>
+
+<!-- FOOTER CON WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:34495E&height=120&section=footer"/>
 
 ---
 
-<sub>© 2025 Tomás Andrade Pérez | Ingeniero en Informática | Última actualización: Octubre 2025</sub>
-
-<sub>[GitHub Profile](https://github.com/TU_USUARIO) • [LinkedIn](TU_LINKEDIN) • [Email](mailto:toomas.andrade09@gmail.com)</sub>
+<sub>© 2025 Tomás Andrade Pérez | Ingeniero en Informática | Full Stack Developer</sub>  
+<sub>Última actualización: Octubre 2025 | Hecho con ❤️ y mucho ☕</sub>
 
 </div>
