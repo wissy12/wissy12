@@ -151,7 +151,7 @@ Busco un ambiente donde pueda crecer, aprender continuamente y contribuir al éx
 <br><i>Dashboard con KPIs</i>
 </td>
 <td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/C0392B/FFFFFF?text=Mapa+Interactivo" width="100%"/>
+<img src="https://i.ibb.co/Qv2w9bxf/Captura-de-pantalla-224.png" width="100%"/>
 <br><i>Mapa Georreferenciado</i>
 </td>
 <td width="33%" align="center">
