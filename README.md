@@ -43,28 +43,7 @@ Ingeniero en Informática en el Instituto Profesional Santo Tomás de Puerto Mon
 
 Integrarme a un equipo de trabajo en el área de tecnologías de la información donde pueda aplicar y fortalecer mis conocimientos en informática. Mi objetivo es adquirir más experiencia, colaborar activamente en proyectos tecnológicos y desarrollarme tanto profesional como personalmente.
 
-### 🎓 Educación
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-**🎓 Ingeniería en Informática**  
-*En curso*  
-Instituto Profesional Santo Tomás  
-Puerto Montt
-
-</td>
-<td width="50%" align="center">
-
-**⚡ Técnico en Electricidad**  
-*Titulado*  
-Instituto del Mar Capitán Williams  
-Puerto Montt
-
-</td>
-</tr>
-</table>
 
 ---
 
