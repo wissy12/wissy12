@@ -9,7 +9,7 @@
 <p>
 <img src="https://img.shields.io/badge/Proyectos-6_Completados-00D9FF?style=for-the-badge&logo=checkmarx&logoColor=white" />
 <img src="https://img.shields.io/badge/Producción-4_Sistemas-2ECC71?style=for-the-badge&logo=statuspage&logoColor=white" />
-<img src="https://img.shields.io/badge/Cliente-ENEL_Chile-E74C3C?style=for-the-badge&logo=lightning&logoColor=white" />
+<img src="https://img.shields.io/badge/Empresas-3_Clientes-E74C3C?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
 
 </div>
@@ -31,8 +31,7 @@ const developer = {
     experienciaReal: {
         proyectosCompletados: 6,
         sistemasProducción: 4,
-        empresasClientes: 3,
-        clienteDestacado: "ENEL Chile (Fortune 500)"
+        empresasClientes: 3
     }
 };
 ```
@@ -46,11 +45,6 @@ const developer = {
 - Database Design & Optimization
 - Geolocation Systems
 - IoT & Embedded Systems
-
-**Impacto Medible:**
-- +5,000 MW gestionados
-- +5,000 km inspeccionados
-- +10,000 horas operación
 
 </td>
 </tr>
@@ -103,7 +97,7 @@ const developer = {
 
 ---
 
-## 📁 Repositorios Destacados
+## 📁 Portafolio de Proyectos
 
 <div align="center">
 
@@ -113,38 +107,38 @@ const developer = {
 
 <h3><img src="https://img.icons8.com/fluency/48/000000/lightning-bolt.png" width="20"/> Sistema Líneas Eléctricas</h3>
 
-[![Repo](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github)](LINK_AL_REPO)
-
-**Cliente:** ENEL Chile  
+**Empresa:** ADENTU - Clientes: ENEL, Cermac y otros  
 **Stack:** PHP, MySQL, Azure, Leaflet.js  
 **Estado:** 🟢 En Producción
 
-Sistema crítico de inspección de líneas de alta tensión mediante drones. Gestiona +5,000 MW de capacidad eléctrica.
+Sistema crítico de inspección de líneas de alta tensión mediante drones profesionales.
 
 **Características clave:**
 - Mapas georreferenciados interactivos
 - Dashboard ejecutivo con KPIs
 - Gestión de hallazgos automatizada
-- Reportería avanzada
+- Reportería avanzada (PDF/Excel/CSV)
+
+**🔗 Repositorio:** [Enlace al código](LINK_REPO_LINEAS_ELECTRICAS)
 
 </td>
 <td width="50%">
 
-<h3><img src="https://img.icons8.com/fluency/48/000000/water.png" width="20"/> Sistema ROV Fondeo</h3>
+<h3><img src="https://img.icons8.com/fluency/48/000000/water.png" width="20"/> Sistema Líneas Fondeo</h3>
 
-[![Repo](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github)](LINK_AL_REPO)
-
-**Tipo:** Multi-Tenant SaaS  
+**Empresa:** ADENTU - Multi-empresa acuícola  
 **Stack:** PHP, MySQL, AWS S3  
-**Estado:** 🟢 Multi-Empresa
+**Estado:** 🟢 En Producción
 
-Plataforma para inspecciones submarinas con ROV en acuicultura. +10,000 horas de operación.
+Plataforma SaaS para inspecciones submarinas con ROV en centros de cultivo y estructuras marítimas.
 
 **Características clave:**
 - Integración con equipos ROV
 - Procesamiento masivo de imágenes
 - Arquitectura multi-tenant
 - Almacenamiento AWS S3
+
+**🔗 Repositorio:** [Enlace al código](LINK_REPO_FONDEO)
 
 </td>
 </tr>
@@ -153,13 +147,11 @@ Plataforma para inspecciones submarinas con ROV en acuicultura. +10,000 horas de
 
 <h3><img src="https://img.icons8.com/fluency/48/000000/hotel.png" width="20"/> Hotel Inventory System</h3>
 
-[![Repo](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github)](LINK_AL_REPO)
-
 **Tipo:** Sistema de Gestión  
 **Stack:** Vue.js 3, Firebase  
 **Estado:** 🟢 Funcional
 
-Sistema moderno de gestión hotelera con Firebase y Vue.js 3.
+Sistema moderno de gestión hotelera con Firebase y Vue.js 3 para control de habitaciones e inventario.
 
 **Características clave:**
 - Gestión completa de habitaciones
@@ -167,23 +159,25 @@ Sistema moderno de gestión hotelera con Firebase y Vue.js 3.
 - Firebase Authentication
 - Diseño responsive
 
+**🔗 Repositorio:** [Enlace al código](LINK_REPO_HOTEL)
+
 </td>
 <td width="50%">
 
 <h3><img src="https://img.icons8.com/fluency/48/000000/package.png" width="20"/> Sistema Inventario APECO</h3>
 
-[![Repo](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github)](LINK_AL_REPO)
-
 **Tipo:** Gestión Empresarial  
 **Stack:** PHP, MySQL  
 **Estado:** 🟢 En Producción
 
-Sistema integral de inventarios con análisis en tiempo real.
+Sistema integral de inventarios con análisis en tiempo real para empresa de retail industrial.
 
 **Resultados comprobados:**
 - 60% reducción en tiempo de gestión
 - 100% trazabilidad de productos
 - ROI positivo en 3 meses
+
+**🔗 Repositorio:** [Enlace al código](LINK_REPO_APECO)
 
 </td>
 </tr>
@@ -192,13 +186,11 @@ Sistema integral de inventarios con análisis en tiempo real.
 
 <h3><img src="https://img.icons8.com/fluency/48/000000/electrical.png" width="20"/> Portal ElectroSur</h3>
 
-[![Repo](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github)](LINK_AL_REPO)
-
 **Tipo:** Portal Web Empresarial  
 **Stack:** Django, MySQL, Tailwind  
 **Estado:** 🟢 Prototipo Funcional
 
-Portal de atención al cliente para servicios eléctricos.
+Portal de atención al cliente para empresa de servicios eléctricos con sistema de tickets.
 
 **Características clave:**
 - Sistema de solicitudes estructurado
@@ -206,24 +198,26 @@ Portal de atención al cliente para servicios eléctricos.
 - Panel administrativo completo
 - Notificaciones en tiempo real
 
+**🔗 Repositorio:** [Enlace al código](LINK_REPO_ELECTROSUR)
+
 </td>
 <td width="50%">
 
 <h3><img src="https://img.icons8.com/fluency/48/000000/candle.png" width="20"/> Memoria Digital</h3>
 
-[![Repo](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github)](LINK_AL_REPO)
-
 **Tipo:** E-commerce + SaaS  
 **Stack:** PHP, MySQL  
 **Estado:** 🟢 Completo
 
-Plataforma innovadora de lápidas digitales con códigos QR.
+Plataforma innovadora de lápidas digitales con códigos QR que fusiona lo físico y lo digital.
 
 **Características clave:**
 - Memoriales digitales interactivos
 - Galería multimedia ilimitada
 - E-commerce integrado
 - QR en lápidas físicas de aluminio
+
+**🔗 Repositorio:** [Enlace al código](LINK_REPO_MEMORIA)
 
 </td>
 </tr>
@@ -243,11 +237,13 @@ Plataforma innovadora de lápidas digitales con códigos QR.
 
 **ADENTU Ingeniería** | *2023 - Presente*
 
-- 2 sistemas críticos en producción activa
-- Cliente Fortune 500: ENEL Chile
-- Plataforma SaaS multi-empresa en acuicultura
-- +5,000 MW y +5,000 km gestionados
-- Arquitectura cloud: Azure y AWS S3
+Desarrollo de sistemas críticos para gestión de inspecciones en los sectores de energía eléctrica y acuicultura marina.
+
+**Proyectos principales:**
+- Sistema de inspección de líneas eléctricas (clientes: ENEL, Cermac)
+- Sistema de inspección ROV submarina (multi-empresa)
+- Arquitectura cloud con Azure y AWS S3
+- Sistemas georreferenciados con Leaflet.js
 
 **Tecnologías:** PHP, MySQL, JavaScript, Azure, AWS, Leaflet.js, Git
 
@@ -258,11 +254,13 @@ Plataforma innovadora de lápidas digitales con códigos QR.
 
 **Proyectos Freelance** | *2023 - Presente*
 
-- 4 proyectos completados exitosamente
-- ROI positivo en todos los proyectos
-- 100% satisfacción de clientes
-- Sectores: Hotelería, Retail, Servicios
-- Soluciones end-to-end personalizadas
+Desarrollo de soluciones personalizadas para diversos sectores industriales.
+
+**Proyectos realizados:**
+- Sistema de gestión hotelera (Vue.js + Firebase)
+- Sistema de inventario empresarial (PHP + MySQL)
+- Portal de atención al cliente (Django)
+- Plataforma e-commerce memorial (PHP)
 
 **Tecnologías:** Python, Django, Vue.js, Firebase, PHP, MySQL, Tailwind
 
@@ -272,13 +270,9 @@ Plataforma innovadora de lápidas digitales con códigos QR.
 
 ---
 
-## 📊 Actividad en GitHub
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&custom_title=Contribuciones%20y%20Actividad&theme=react-dark&hide_border=true&bg_color=1F2937&color=60A5FA&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6" width="100%"/>
-
-<br><br>
 
 <table>
 <tr>
@@ -293,14 +287,11 @@ Plataforma innovadora de lápidas digitales con códigos QR.
 
 </td>
 </tr>
-<tr>
-<td colspan="2">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=react&hide_border=true&bg_color=1F2937&title_color=60A5FA&text_color=D1D5DB&langs_count=8" width="100%"/>
-
-</td>
-</tr>
 </table>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=react&hide_border=true&bg_color=1F2937&title_color=60A5FA&text_color=D1D5DB&langs_count=8" width="50%"/>
 
 </div>
 
@@ -351,7 +342,7 @@ Plataforma innovadora de lápidas digitales con códigos QR.
 
 **© 2025 Tomás Andrade Pérez | Ingeniero en Informática | Full Stack Developer**
 
-*6 Proyectos Reales • 4 Sistemas en Producción • Cliente Fortune 500*
+*6 Proyectos Reales • 4 Sistemas en Producción • 3 Empresas Cliente*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=0e75b6&style=flat-square)
 
