@@ -224,12 +224,6 @@ Sistema moderno de gestión hotelera desarrollado con Vue.js 3 y Firebase para c
 - 📱 Diseño responsive y mobile-first
 - 📊 Dashboard con métricas de ocupación
 
-<div align="center">
-
-[![Repositorio](https://img.shields.io/badge/📂_Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](LINK_REPO_HOTEL)
-[![Documentación](https://img.shields.io/badge/📄_Ver_PDF-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](LINK_PDF_HOTEL)
-
-</div>
 
 </td>
 </tr>
