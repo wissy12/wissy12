@@ -176,26 +176,7 @@ Sistema crítico de inspección de líneas de alta tensión mediante drones prof
 
 **Stack Tecnológico:** `PHP` `MySQL` `AWS S3` `JavaScript` `HTML/CSS`
 
-<details>
-<summary><b>📸 Ver Galería del Proyecto (3 imágenes)</b></summary>
-<br>
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/006064/FFFFFF?text=Dashboard+ROV" width="100%"/>
-<br><i>Panel de Control ROV</i>
-</td>
-<td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/00838F/FFFFFF?text=Galeria+Imagenes" width="100%"/>
-<br><i>Galería de Imágenes</i>
-</td>
-<td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/0097A7/FFFFFF?text=Mediciones" width="100%"/>
-<br><i>Sistema de Mediciones</i>
-</td>
-</tr>
-</table>
-</details>
+
 
 **Descripción:**  
 Plataforma SaaS para inspecciones submarinas con ROV en centros de cultivo, líneas de fondeo y estructuras marítimas.
