@@ -141,26 +141,6 @@ Busco un ambiente donde pueda crecer, aprender continuamente y contribuir al éx
 
 **Stack Tecnológico:** `PHP` `MySQL` `Azure` `Leaflet.js` `JavaScript` `HTML/CSS`
 
-<details>
-<summary><b>📸 Ver Galería del Proyecto (3 imágenes)</b></summary>
-<br>
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://i.ibb.co/mCDqb6sF/Captura-de-pantalla-216.png" width="100%"/>
-<br><i>Dashboard con KPIs</i>
-</td>
-<td width="33%" align="center">
-<img src="https://i.ibb.co/Qv2w9bxf/Captura-de-pantalla-224.png" width="100%"/>
-<br><i>Mapa Georreferenciado</i>
-</td>
-<td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/A93226/FFFFFF?text=Reportes" width="100%"/>
-<br><i>Sistema de Reportes</i>
-</td>
-</tr>
-</table>
-</details>
 
 **Descripción:**  
 Sistema crítico de inspección de líneas de alta tensión mediante drones profesionales para gestión de infraestructura eléctrica.
@@ -172,12 +152,7 @@ Sistema crítico de inspección de líneas de alta tensión mediante drones prof
 - 📈 Reportería avanzada (PDF/Excel/CSV)
 - 🔐 Sistema multi-usuario con roles y permisos
 
-<div align="center">
 
-[![Repositorio](https://img.shields.io/badge/📂_Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](LINK_REPO_LINEAS_ELECTRICAS)
-[![Documentación](https://img.shields.io/badge/📄_Ver_PDF-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](LINK_PDF_LINEAS)
-
-</div>
 
 </td>
 </tr>
@@ -232,12 +207,7 @@ Plataforma SaaS para inspecciones submarinas con ROV en centros de cultivo, lín
 - ☁️ Almacenamiento escalable en AWS S3
 - 📊 Análisis y clasificación de criticidades
 
-<div align="center">
 
-[![Repositorio](https://img.shields.io/badge/📂_Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](LINK_REPO_FONDEO)
-[![Documentación](https://img.shields.io/badge/📄_Ver_PDF-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](LINK_PDF_FONDEO)
-
-</div>
 
 </td>
 </tr>
@@ -261,26 +231,7 @@ Plataforma SaaS para inspecciones submarinas con ROV en centros de cultivo, lín
 
 **Stack Tecnológico:** `Vue.js 3` `Firebase` `JavaScript` `CSS3`
 
-<details>
-<summary><b>📸 Ver Galería del Proyecto (3 imágenes)</b></summary>
-<br>
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/F39C12/FFFFFF?text=Dashboard+Hotel" width="100%"/>
-<br><i>Dashboard Principal</i>
-</td>
-<td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/E67E22/FFFFFF?text=Habitaciones" width="100%"/>
-<br><i>Gestión de Habitaciones</i>
-</td>
-<td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/D68910/FFFFFF?text=Inventario" width="100%"/>
-<br><i>Control de Inventario</i>
-</td>
-</tr>
-</table>
-</details>
+
 
 **Descripción:**  
 Sistema moderno de gestión hotelera desarrollado con Vue.js 3 y Firebase para control integral de habitaciones e inventario.
@@ -321,26 +272,7 @@ Sistema moderno de gestión hotelera desarrollado con Vue.js 3 y Firebase para c
 
 **Stack Tecnológico:** `PHP` `MySQL` `JavaScript` `HTML/CSS`
 
-<details>
-<summary><b>📸 Ver Galería del Proyecto (3 imágenes)</b></summary>
-<br>
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/9B59B6/FFFFFF?text=Dashboard+APECO" width="100%"/>
-<br><i>Dashboard Ejecutivo</i>
-</td>
-<td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/8E44AD/FFFFFF?text=Productos" width="100%"/>
-<br><i>Gestión de Productos</i>
-</td>
-<td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/7D3C98/FFFFFF?text=Reportes" width="100%"/>
-<br><i>Sistema de Reportes</i>
-</td>
-</tr>
-</table>
-</details>
+
 
 **Descripción:**  
 Sistema integral de gestión de inventarios con análisis en tiempo real para empresa de retail industrial.
@@ -354,12 +286,7 @@ Sistema integral de gestión de inventarios con análisis en tiempo real para em
 
 **Resultados comprobados:** ✅ 60% reducción en tiempo de gestión • ✅ 100% trazabilidad de productos • ✅ ROI positivo en 3 meses
 
-<div align="center">
 
-[![Repositorio](https://img.shields.io/badge/📂_Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](LINK_REPO_APECO)
-[![Documentación](https://img.shields.io/badge/📄_Ver_PDF-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](LINK_PDF_APECO)
-
-</div>
 
 </td>
 </tr>
@@ -383,26 +310,7 @@ Sistema integral de gestión de inventarios con análisis en tiempo real para em
 
 **Stack Tecnológico:** `Python` `Django` `MySQL` `Tailwind CSS` `JavaScript`
 
-<details>
-<summary><b>📸 Ver Galería del Proyecto (3 imágenes)</b></summary>
-<br>
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/3498DB/FFFFFF?text=Portal+Principal" width="100%"/>
-<br><i>Portal de Cliente</i>
-</td>
-<td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/2980B9/FFFFFF?text=Sistema+Tickets" width="100%"/>
-<br><i>Gestión de Tickets</i>
-</td>
-<td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/2471A3/FFFFFF?text=Panel+Admin" width="100%"/>
-<br><i>Panel Administrativo</i>
-</td>
-</tr>
-</table>
-</details>
+
 
 **Descripción:**  
 Portal de atención al cliente para empresa de servicios eléctricos con sistema de tickets y seguimiento.
@@ -414,12 +322,7 @@ Portal de atención al cliente para empresa de servicios eléctricos con sistema
 - 🔔 Notificaciones en tiempo real
 - 📊 Métricas de atención y satisfacción
 
-<div align="center">
 
-[![Repositorio](https://img.shields.io/badge/📂_Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](LINK_REPO_ELECTROSUR)
-[![Documentación](https://img.shields.io/badge/📄_Ver_PDF-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](LINK_PDF_ELECTROSUR)
-
-</div>
 
 </td>
 </tr>
@@ -443,26 +346,7 @@ Portal de atención al cliente para empresa de servicios eléctricos con sistema
 
 **Stack Tecnológico:** `PHP` `MySQL` `JavaScript` `HTML/CSS`
 
-<details>
-<summary><b>📸 Ver Galería del Proyecto (3 imágenes)</b></summary>
-<br>
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/6C3483/FFFFFF?text=Memoriales" width="100%"/>
-<br><i>Memoriales Digitales</i>
-</td>
-<td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/5B2C6F/FFFFFF?text=Galeria+Multimedia" width="100%"/>
-<br><i>Galería Multimedia</i>
-</td>
-<td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/4A235A/FFFFFF?text=E-commerce" width="100%"/>
-<br><i>Tienda Online</i>
-</td>
-</tr>
-</table>
-</details>
+
 
 **Descripción:**  
 Plataforma innovadora que fusiona lo digital con lo físico: lápidas de aluminio con código QR que enlazan a memoriales digitales interactivos.
@@ -474,12 +358,7 @@ Plataforma innovadora que fusiona lo digital con lo físico: lápidas de alumini
 - 📱 Códigos QR únicos en lápidas de aluminio
 - 💬 Sistema de condolencias interactivo
 
-<div align="center">
 
-[![Repositorio](https://img.shields.io/badge/📂_Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](LINK_REPO_MEMORIA)
-[![Documentación](https://img.shields.io/badge/📄_Ver_PDF-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](LINK_PDF_MEMORIA)
-
-</div>
 
 </td>
 </tr>
